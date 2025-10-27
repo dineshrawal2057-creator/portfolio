@@ -32,7 +32,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="test1_files/libs/quarto-html/anchor.min.js"></script>
 <link href="test1_files/libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="test1_files/libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="test1_files/libs/bootstrap/bootstrap.min.js"></script>
+<script srcptest1_files/libs/bootstrap/bootstrap.min.js"></script>
 <link href="test1_files/libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="test1_files/libs/bootstrap/bootstrap-0b716d6fe31096b8dc5b1cb48462c79f.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 
@@ -113,7 +113,7 @@ h1 {
 </style>
 <div class="container">
 <div class="header">
-<img src="photo.png" alt="Dinesh Rawal headshot">
+<img src="dinesh.png" alt="Dinesh Rawal headshot">
 <h1>
 Dinesh Rawal
 </h1>
